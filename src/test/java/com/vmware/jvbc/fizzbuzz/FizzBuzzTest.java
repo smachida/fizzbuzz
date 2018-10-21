@@ -25,6 +25,9 @@ public class FizzBuzzTest {
 		fizzBuzz = null;
 	}
 	
+	@Test
+	public void testHello() {
+	}
 //	@Test
 //	public void testFizz3() throws Exception {
 //		assertEquals("3のときはFizz", "Fizz", fizzBuzz.result(3));
