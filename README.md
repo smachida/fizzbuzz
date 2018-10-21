@@ -2,3 +2,4 @@
 
 FizzBuzz デモ用 雛形プログラム
 
+ping
