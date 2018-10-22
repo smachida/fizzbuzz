@@ -27,6 +27,7 @@ public class FizzBuzzTest {
 	
 	@Test
 	public void testHello() {
+		System.out.println("Hello");
 	}
 //	@Test
 //	public void testFizz3() throws Exception {
