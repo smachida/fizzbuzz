@@ -29,13 +29,13 @@ public class FizzBuzzTest {
 	public void testHello() {
 		System.out.println("Hello");
 	}
-//	@Test
-//	public void testFizz3() throws Exception {
-//		assertEquals("3のときはFizz", "Fizz", fizzBuzz.result(3));
-//	}
-//	
-//	@Test
-//	public void testFizz6() throws Exception {
-//		assertEquals("6のときはFizz", "Fizz", fizzBuzz.result(6));
-//	}	
+	@Test
+	public void testFizz3() throws Exception {
+		assertEquals("3のときはFizz", "Fizz", fizzBuzz.result(3));
+	}
+	
+	@Test
+	public void testFizz6() throws Exception {
+		assertEquals("6のときはFizz", "Fizz", fizzBuzz.result(6));
+	}	
 }
